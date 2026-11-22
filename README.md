@@ -7,7 +7,7 @@
 
 # breach-game/.github
 
-Fichiers communs à l'organisation :
+Files shared across the organization:
 
-- [`profile/README.md`](profile/README.md) : la page de profil de l'organisation.
-- [`brand/`](brand/) : l'identité visuelle complète (logo, wordmark, avatar, favicon, social preview), avec ses sources. Voir [`brand/README.md`](brand/README.md).
+- [`profile/README.md`](profile/README.md): the organization's profile page.
+- [`brand/`](brand/): the complete visual identity (logo, wordmark, avatar, favicon, social preview), with its sources. See [`brand/README.md`](brand/README.md).

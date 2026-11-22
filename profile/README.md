@@ -54,7 +54,7 @@ One link and you are playing: no account, no install, no download. English and F
 | --- | --- | --- |
 | 0 | **The mandate** | Why a pentest starts with a signed contract and a scope |
 | 1 | **Footprint** | Reconnaissance: DNS, network mapping, a secret forgotten in a git history |
-| 2 | **The talkative intern** | Social engineering on a support chat |
+| 2 | **The talkative intern** | Social engineering on a support chat (MITRE ATT&CK T1598) |
 | 3 | **Nova knows too much** | Prompt injection and system prompt leakage (OWASP LLM01, LLM07) |
 | 4 | **The trapped CV** | Indirect prompt injection in a document read by an AI (LLM01, LLM06) |
 | 5 | **Too much power** | An AI agent with excessive agency (LLM06) |
